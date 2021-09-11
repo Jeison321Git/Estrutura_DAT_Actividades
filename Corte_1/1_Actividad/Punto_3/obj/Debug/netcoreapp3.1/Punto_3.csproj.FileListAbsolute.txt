@@ -1,0 +1,13 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\bin\Debug\netcoreapp3.1\Punto_3.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\bin\Debug\netcoreapp3.1\Punto_3.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\bin\Debug\netcoreapp3.1\Punto_3.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\bin\Debug\netcoreapp3.1\Punto_3.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\bin\Debug\netcoreapp3.1\Punto_3.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\bin\Debug\netcoreapp3.1\Punto_3.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\obj\Debug\netcoreapp3.1\Punto_3.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\obj\Debug\netcoreapp3.1\Punto_3.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\obj\Debug\netcoreapp3.1\Punto_3.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\obj\Debug\netcoreapp3.1\Punto_3.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\obj\Debug\netcoreapp3.1\Punto_3.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\obj\Debug\netcoreapp3.1\Punto_3.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto_3\obj\Debug\netcoreapp3.1\Punto_3.genruntimeconfig.cache

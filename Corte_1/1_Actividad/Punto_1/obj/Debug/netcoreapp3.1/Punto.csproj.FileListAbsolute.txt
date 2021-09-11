@@ -1,0 +1,52 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\bin\Debug\netcoreapp3.1\Punto.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\bin\Debug\netcoreapp3.1\Punto.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\bin\Debug\netcoreapp3.1\Punto.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\bin\Debug\netcoreapp3.1\Punto.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\bin\Debug\netcoreapp3.1\Punto.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\bin\Debug\netcoreapp3.1\Punto.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\obj\Debug\netcoreapp3.1\Punto.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\obj\Debug\netcoreapp3.1\Punto.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\obj\Debug\netcoreapp3.1\Punto.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\obj\Debug\netcoreapp3.1\Punto.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\obj\Debug\netcoreapp3.1\Punto.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\obj\Debug\netcoreapp3.1\Punto.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\Punto\obj\Debug\netcoreapp3.1\Punto.genruntimeconfig.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\bin\Debug\netcoreapp3.1\Punto.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\bin\Debug\netcoreapp3.1\Punto.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\bin\Debug\netcoreapp3.1\Punto.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\bin\Debug\netcoreapp3.1\Punto.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\bin\Debug\netcoreapp3.1\Punto.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\bin\Debug\netcoreapp3.1\Punto.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\obj\Debug\netcoreapp3.1\Punto.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\obj\Debug\netcoreapp3.1\Punto.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\obj\Debug\netcoreapp3.1\Punto.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\obj\Debug\netcoreapp3.1\Punto.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\obj\Debug\netcoreapp3.1\Punto.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\obj\Debug\netcoreapp3.1\Punto.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_1\Punto_1\obj\Debug\netcoreapp3.1\Punto.genruntimeconfig.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA_DE_DATOS_ACTIVDADES_CORTE1\Corte_1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.genruntimeconfig.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\bin\Debug\netcoreapp3.1\Punto.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_D_Actividades\Corte 1\1. Actividad\Punto_1\obj\Debug\netcoreapp3.1\Punto.genruntimeconfig.cache
