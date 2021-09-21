@@ -1,0 +1,14 @@
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\bin\Debug\netcoreapp3.1\Punto_5.exe
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\bin\Debug\netcoreapp3.1\Punto_5.deps.json
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\bin\Debug\netcoreapp3.1\Punto_5.runtimeconfig.json
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\bin\Debug\netcoreapp3.1\Punto_5.runtimeconfig.dev.json
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\bin\Debug\netcoreapp3.1\Punto_5.dll
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\bin\Debug\netcoreapp3.1\Punto_5.pdb
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\obj\Debug\netcoreapp3.1\Punto_5.csproj.AssemblyReference.cache
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\obj\Debug\netcoreapp3.1\Punto_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\obj\Debug\netcoreapp3.1\Punto_5.AssemblyInfoInputs.cache
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\obj\Debug\netcoreapp3.1\Punto_5.AssemblyInfo.cs
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\obj\Debug\netcoreapp3.1\Punto_5.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\obj\Debug\netcoreapp3.1\Punto_5.dll
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\obj\Debug\netcoreapp3.1\Punto_5.pdb
+C:\Users\Jeison\source\repos\Punto_5\Punto_5\obj\Debug\netcoreapp3.1\Punto_5.genruntimeconfig.cache
